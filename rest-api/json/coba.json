@@ -1,0 +1,29 @@
+[
+        {
+        "nama" : "Muhammad Khoiril Abdi",
+        "umur" : 20,
+        "nrp" : "183040197",
+        "lulus" : true,
+        "hobby" : [
+            "coding", "gaming"
+        ],
+        "pembimbing":{
+            "pembimbing1" : "Shandika Galih",
+            "Pembimbing2" : "Erick Doank"
+        }
+    },
+    
+        {
+        "nama" : "Muhammad Khoiril Abdi",
+        "umur" : 20,
+        "nrp" : "183040197",
+        "lulus" : true,
+        "hobby" : [
+            "coding", "gaming"
+        ],
+        "pembimbing":{
+            "pembimbing1" : "Shandika Galih",
+            "Pembimbing2" : "Erick Doank"
+        }
+    }
+]
